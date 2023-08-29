@@ -25,11 +25,11 @@ The following tasks were completed:
 5. Analyze your dataset by using Pandas functions to answer the following questions:
    > How many months exist on Mars?
    
-   > How many Martian (and not Earth) days' worth of data exist in the scraped dataset?
+   > How many Martian (and not Earth) days' worth of data exist in the scraped dataset? 
    
    > What are the coldest and the warmest months on Mars (at the location of Curiosity)? (Bar Chart)
    
-   > Which months have the lowest and the highest atmospheric pressure on Mars?
+   > Which months have the lowest and the highest atmospheric pressure on Mars? (Bar Chart)
    
 6. Export the DataFrame to a CSV file.
 
